@@ -1,0 +1,33 @@
+# Pliki wynikowe i binarne
+*.o
+*.obj
+*.exe
+*.out
+*.dll
+*.so
+*.a
+*.lib
+
+# Pliki kompilatora
+*.log
+*.d
+*.gcda
+*.gcno
+*.gcov
+
+# Pliki edytorów i IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+
+# Pliki Makefile/CMake
+CMakeFiles/
+CMakeCache.txt
+Makefile
+cmake_install.cmake
+
+# Pliki tymczasowe
+*.tmp
+*.~*
